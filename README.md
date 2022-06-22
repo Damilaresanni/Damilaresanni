@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Damilaresanni
-- 👀 I’m interested in python, django,  and javascript. 
+- 👀 I’m interested in python, django,and javascript. 
 - 🌱 I’m currently learning django.
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me via twitter @damilaresanni_
