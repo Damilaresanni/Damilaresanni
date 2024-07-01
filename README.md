@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Damilaresanni
 - 👀 I’m interested in python, php, laravel, django,and javascript. 
-- 🌱 I’m currently learning django.
+- 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me via twitter @Damilarebits
 
