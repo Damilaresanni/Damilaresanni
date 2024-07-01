@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Damilaresanni
-- 👀 I’m interested in python, django,and javascript. 
+- 👀 I’m interested in python,PHP, laravel, django,and javascript. 
 - 🌱 I’m currently learning django.
 - 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me via twitter @damilaresanni_
+- 📫 How to reach me via twitter @Damilarebits
 
 <!---
 Damilaresanni/Damilaresanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
