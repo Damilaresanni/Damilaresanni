@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Damilaresanni
-- 👀 I'm a passionate backend developer with a strong foundation in Python, PHP, Laravel, and Django. 
+- 👀 I'm a passionate backend developer with a foundation in Python, PHP, Laravel, and Django. 
 - 🌱 While I'm currently expanding my knowledge in Software architecture and API design ,my core expertise lies in building robust backends for web applications.
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me via twitter @Damilarebits
